@@ -1,0 +1,25 @@
+body{
+	background-image: url("bg.jpg");
+}
+
+h1{
+	color: white;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+table{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.back {
+    color:yellow;
+    font-family:Arial, Helvetica, sans-serif;
+}
